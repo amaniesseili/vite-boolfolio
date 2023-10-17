@@ -10,7 +10,9 @@ export default {
 
 <template>
   <div class="project-card">
+
     <h2>{{ project.title}}</h2>
+    <img src="" alt="">
     <p>{{project.description}}</p>
 
     
